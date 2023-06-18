@@ -21,6 +21,13 @@
     "text": "Project 3"
   },
   {
+    "objectID": "projects.html#project-4",
+    "href": "projects.html#project-4",
+    "title": "Projects",
+    "section": "Project 4",
+    "text": "Project 4"
+  },
+  {
     "objectID": "index.html#goals",
     "href": "index.html#goals",
     "title": "About Me",
@@ -40,5 +47,12 @@
     "title": "About Me",
     "section": "Experience",
     "text": "Experience"
+  },
+  {
+    "objectID": "index.html#cv",
+    "href": "index.html#cv",
+    "title": "About Me",
+    "section": "CV",
+    "text": "CV"
   }
 ]
