@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "Projects",
+    "section": "Project 1",
+    "text": "Project 1"
+  },
+  {
     "objectID": "projects.html#project-2",
     "href": "projects.html#project-2",
     "title": "Projects",
@@ -14,10 +21,24 @@
     "text": "Project 3"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
     "title": "About Me",
-    "section": "",
-    "text": "Thanks for checking out my web site!"
+    "section": "Goals",
+    "text": "Goals"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About Me",
+    "section": "Experience",
+    "text": "Experience"
   }
 ]
